@@ -1,0 +1,109 @@
+<div class="watchlist-version hidden" id="white_watchlist_version">
+  <div class="container">
+    <div class="watchlist-wrapper mtx mbx" id="white_wrapper">
+      
+      <img
+        alt="iPhone overlay"
+        class="watchlist-phone-overlay"
+        src="https://brokerage-static.s3.amazonaws.com/assets/marketing/images/watchlist/phone-white/PhoneOverlay.png"
+        data-at2x="https://brokerage-static.s3.amazonaws.com/assets/marketing/images/watchlist/phone-white/PhoneOverlay%402x.png"
+      >
+
+      
+
+      
+
+      
+      <div class="watchlist-robn-bg watchlist-detail-bg"></div>
+      
+
+      
+      <div class="watchlist-hood-bg watchlist-detail-bg"></div>
+      
+    </div>
+  </div>
+
+  
+  <div class="absolute-element">
+    <div class="transition-positioning mtx mbx">
+      <div class="timeholder">
+        <img
+          alt="Daytime icon"
+          src="https://brokerage-static.s3.amazonaws.com/assets/marketing/images/watchlist/phone-white/SunIcon.png"
+          data-at2x="https://brokerage-static.s3.amazonaws.com/assets/marketing/images/watchlist/phone-white/SunIcon%402x.png"
+        >
+        <img
+          alt="Nighttime icon"
+          class="moon-icon"
+          src="https://brokerage-static.s3.amazonaws.com/assets/marketing/images/watchlist/phone-white/MoonIcon.png"
+          data-at2x="https://brokerage-static.s3.amazonaws.com/assets/marketing/images/watchlist/phone-white/MoonIcon%402x.png"
+        >
+      </div>
+    </div>
+  </div>
+</div>
+
+
+    
+    <div class="transition-mask absolute-element" id="black_phonemask">
+      
+    </div>
+
+    
+
+<div class="watchlist-version hidden" id="black_watchlist_version">
+  <div class="container">
+    <div class="watchlist-wrapper mtx mbx" id="black_wrapper">
+      
+      <img
+        alt="iPhone overlay"
+        class="watchlist-phone-overlay"
+        src="https://brokerage-static.s3.amazonaws.com/assets/marketing/images/watchlist/phone-black/PhoneOverlay.png"
+        data-at2x="https://brokerage-static.s3.amazonaws.com/assets/marketing/images/watchlist/phone-black/PhoneOverlay%402x.png"
+      >
+
+      
+      <div class="watchlist-portfolio">
+        
+      </div>
+
+      
+      
+
+      
+      <div class="watchlist-robn-bg watchlist-detail-bg"></div>
+      
+
+      
+      <div class="watchlist-hood-bg watchlist-detail-bg"></div>
+      
+    </div>
+  </div>
+
+  
+  <div class="absolute-element">
+    <div class="transition-positioning mtx mbx">
+      <div class="timeholder">
+        <img
+          alt="Daytime icon"
+          src="https://brokerage-static.s3.amazonaws.com/assets/marketing/images/watchlist/phone-black/SunIcon.png"
+          data-at2x="https://brokerage-static.s3.amazonaws.com/assets/marketing/images/watchlist/phone-black/SunIcon%402x.png"
+        >
+        <img
+          alt="Nighttime icon"
+          class="moon-icon"
+          src="https://brokerage-static.s3.amazonaws.com/assets/marketing/images/watchlist/phone-black/MoonIcon.png"
+          data-at2x="https://brokerage-static.s3.amazonaws.com/assets/marketing/images/watchlist/phone-black/MoonIcon%402x.png"
+        >
+      </div>
+    </div>
+  </div>
+</div>
+
+
+    
+    <div class="transition-mask absolute-element white-bg" id="white_phonemask">
+      
+    </div>
+  </div>
+</div>

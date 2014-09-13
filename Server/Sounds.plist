@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Sounds</key>
+	<array>
+		<string>http://simonorlovsky.com/Projects/WWYS/sounds/Bible.mp3</string>
+		<string>http://simonorlovsky.com/Projects/WWYS/sounds/Hotter.mp3</string>
+		<string>http://simonorlovsky.com/Projects/WWYS/sounds/needMyMusic.mp3</string>
+		<string>http://simonorlovsky.com/Projects/WWYS/sounds/ratherBeHated.mp3</string>
+		<string>http://simonorlovsky.com/Projects/WWYS/sounds/answersSway.mp3</string>
+		<string>http://simonorlovsky.com/Projects/WWYS/sounds/soFocused.mp3</string>
+		<string>http://simonorlovsky.com/Projects/WWYS/sounds/Humble.mp3</string>
+		<string>http://simonorlovsky.com/Projects/WWYS/sounds/club.mp3</string>
+	</array>
+</dict>
+</plist>
